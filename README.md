@@ -131,7 +131,7 @@ Before you begin, ensure you have the following installed on your computer:
 1. **Clone the Repository:**
 
      ```bash
-     git clone https://github.com/yourusername/smart-investment-advisor.git
+     git clone git@github.com:Ishmael-Chepsoi/ourInvest-project.git
      cd smart-investment-advisor
      ```
 
@@ -192,7 +192,7 @@ Successful collaboration is essential for the smooth development of the Smart In
 3. **Clone Your Fork Locally:**
 
      ```bash
-     git clone https://github.com/yourusername/smart-investment-advisor.git
+     git clone git@github.com:Ishmael-Chepsoi/ourInvest-project.git
      cd smart-investment-advisor
      ```
 
@@ -201,7 +201,7 @@ Successful collaboration is essential for the smooth development of the Smart In
      - This allows you to fetch updates from the original repository.
 
      ```bash
-     git remote add upstream https://github.com/originalowner/smart-investment-advisor.git
+     git remote add upstream git@github.com:Ishmael-Chepsoi/ourInvest-project.git
      ```
 
      - Verify the remotes:
